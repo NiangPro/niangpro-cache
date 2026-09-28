@@ -9,6 +9,11 @@
         }
     ],
     "homepage": "https://github.com/NiangPro/niangpro",
+    "support": {
+        "docs": "https://app.niangprogrammeur.com",
+        "issues": "https://github.com/NiangPro/niangpro/issues",
+        "source": "https://github.com/NiangPro/niangpro"
+    },
     "require": {
         "php": ">=8.1",
         "niangpro/core": "self.version"
